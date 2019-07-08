@@ -1,5 +1,5 @@
 # bash-cloudflare-ddns
-Update cloudflare DNS using bash
+Update cloudflare DNS using bash curl and jq
 
 Get cloudflare Global API Key from your cloudflare account profile
 https://dash.cloudflare.com/profile
